@@ -64,3 +64,20 @@
 .test:nth-child(9){
         margin-bottom: 80px;
 }
+
+.fulleee_result {
+background-color:red ;
+}
+.full-result {
+        width: 85%;
+        border-radius:20px;
+        background-color: rgb(130, 218, 238);
+        margin: auto;
+        margin-left: 100px;
+        margin-right: 100px;
+        margin-bottom: 150px;
+        font-size: 20px;
+}
+.full-result h3,p {
+        margin-bottom: 10px;
+}
