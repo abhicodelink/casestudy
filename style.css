@@ -56,3 +56,11 @@
 .test h5 b {
           color: rgb(255, 0, 0);
 }
+.test img {
+        border-radius: 20px;
+        max-height: 400px;
+        max-width: 300px;
+}
+.test:nth-child(9){
+        margin-bottom: 80px;
+}
